@@ -39,3 +39,8 @@ htmlcov/
 # Misc
 *.log
 tmp/
+
+# Internal planning docs (local only)
+docs/
+PROJECT_SPEC.md
+HACKATHON_RULES.md
