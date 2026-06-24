@@ -145,15 +145,6 @@ medmind/
 │   ├── app/                 # App Router pages
 │   ├── components/          # React components
 │   └── lib/                 # API client, utilities
-├── docs/                    # Design documentation
-│   ├── implementation-plan.md
-│   └── design/
-│       ├── memory-extraction-pipeline-design.md
-│       ├── database-schema-design.md
-│       ├── api-endpoints-design.md
-│       ├── system-prompt-design.md
-│       ├── frontend-ui-design.md
-│       └── auth-design.md
 ├── docker-compose.yml       # Local PostgreSQL + pgvector
 ├── LICENSE                  # MIT
 └── README.md                # This file
